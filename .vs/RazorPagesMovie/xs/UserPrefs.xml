@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{6053A6C8-BA62-496A-9BEE-2A438D2C010A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Movies/Create.cshtml.cs">
+    <Files>
+      <File FileName="Models/Movie.cs" Line="34" Column="2" />
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Pages/Movies/Index.cshtml.cs" Line="11" Column="39" />
+      <File FileName="Pages/Movies/Create.cshtml.cs" Line="40" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RazorPagesMovie" expanded="True">
+            <Node name="RazorPagesMovie" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Movies" expanded="True">
+                  <Node name="Create.cshtml.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>input</Value>
+          <Value>Movie</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RazorPagesMovie PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
